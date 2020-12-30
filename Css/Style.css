@@ -10,7 +10,7 @@ p {
 
 h1 {
   color: #66bfbf;
-  margin: 50px auto 0 auto;
+  margin: 10px auto 0 auto;
   font-family: "Sacramento", cursive;
   font-size: 5.7rem;
 }
@@ -72,6 +72,12 @@ a:hover {
   bottom: 300px;
   width: 20%;
   height: 15%;
+}
+
+.devlopper{
+    width: 65%;
+    height: 450px;
+    
 }
 
 .profile {
