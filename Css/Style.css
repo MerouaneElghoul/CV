@@ -34,14 +34,14 @@ hr {
   margin: 100px auto;
 }
 
-a{
-    text-decoration: none;
-    color: #11999E;
-    padding: 0 20px;
+a {
+  text-decoration: none;
+  color: #11999e;
+  padding: 0 20px;
 }
 
-a:hover{
-    color: #EAF6F6;
+a:hover {
+  color: #eaf6f6;
 }
 
 .top-container {
@@ -61,13 +61,17 @@ a:hover{
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 200px;
+  top: 40px;
+  width: 20%;
+  height: 15%;
 }
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 170px;
   bottom: 300px;
+  width: 20%;
+  height: 15%;
 }
 
 .profile {
@@ -75,7 +79,7 @@ a:hover{
   width: 100%;
 }
 
-.intro{
+.intro {
   width: 30%;
   margin: 20px auto;
 }
@@ -147,7 +151,7 @@ a:hover{
   text-decoration: none;
 }
 
-.footer-p{
-    color: #EAF6F6;
-    margin: 30px 0 0;
+.footer-p {
+  color: #eaf6f6;
+  margin: 30px 0 0;
 }
